@@ -1,1 +1,1 @@
-# LGM---Web-Developement-Tasks
+# LGM---Web-Development-Tasks
